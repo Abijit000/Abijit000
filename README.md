@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, It's Abijit Barua</h1>
 <h3 align="center">A passionate Android App Developer & Designer from Bangladesh.I've been developing Android apps and programming in Java since 2021.Now I am working at Chuty Bangladesh Private Limited..</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abijit000&rank=S,AAA,AA,A,B,C&theme=monokai" alt="abijit000" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abijit000&rank=S,AAA,AA,A,B,C&theme=algolia&no-bg=false&margin-w=10" alt="abijit000" /></a> </p>
 
 - 🔭 I’m currently working on [ChutyRooms](https://play.google.com/store/apps/details?id=com.chutyrooms.crapp)
 
