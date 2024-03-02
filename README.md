@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abijit000&rank=S,AAA,AA,A,B,C&theme=algolia&no-bg=false&margin-w=10" alt="abijit000" /></a> </p>
 
-- 🔭 I’m currently working on [ChutyRooms](https://play.google.com/store/apps/details?id=com.chutyrooms.crapp)
+- 🔭 I’m currently working on [Selise](https://selisegroup.com/)
 
 - 🌱 I’m currently learning **Mobile app development**
 
